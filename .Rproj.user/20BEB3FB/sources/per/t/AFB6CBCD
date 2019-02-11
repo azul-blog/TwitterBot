@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549914578575.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "680720900",
+    "id" : "AFB6CBCD",
+    "lastKnownWriteTime" : 1549914584,
+    "last_content_update" : 1549914584745,
+    "path" : "C:/Users/Pichau/Desktop/TwitterBot/funcs_blog.R",
+    "project_path" : "funcs_blog.R",
+    "properties" : {
+        "cursorPosition" : "19,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
